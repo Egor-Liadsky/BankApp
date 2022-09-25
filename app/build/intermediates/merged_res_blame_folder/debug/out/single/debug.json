@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\layout_fragment_additional.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\layout\\fragment_additional.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.android.bankapp-merged_res-45:/layout_fragment_additional.xml.flat",
+        "source": "com.android.bankapp-main-47:/layout/fragment_additional.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.android.bankapp-merged_res-45:/layout_fragment_payment.xml.flat",
+        "source": "com.android.bankapp-main-47:/layout/fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.android.bankapp-merged_res-45:/font_qanelas.ttf.flat",
+        "source": "com.android.bankapp-main-47:/font/qanelas.ttf"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\navigation_nav.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\navigation\\nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\layout_fragment_payment.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\drawable_ic_additional.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\drawable\\ic_additional.xml"
+    },
+    {
+        "merged": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-merged_res-45:\\drawable_ic_payment.xml.flat",
+        "source": "C:\\Users\\igeg9\\.gradle\\daemon\\7.3.3\\com.android.bankapp-main-47:\\drawable\\ic_payment.xml"
+    },
+    {
+        "merged": "com.android.bankapp-merged_res-45:/layout_fragment_home.xml.flat",
+        "source": "com.android.bankapp-main-47:/layout/fragment_home.xml"
+    }
+]

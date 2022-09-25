@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BankApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="payments">Платежи</string>
+    <string name="additional">Ещё</string>
+    <string name="home">Главная</string>
+    <string name="money">15 483 ₽</string>
 </resources>
